@@ -17,8 +17,8 @@
 	<p><strong>Estado civil:</strong>  Soltera</p>
 	<h2>Perfil </h2>
 	<strong>Estudiante de ingeniería en software del Tecnologico de Antioquia,
-	actualmente en el quinto semestre. <p> Me atrae el desarrollo de software en un futuro me gustaría</p> 
-	desarrollar video juegos o mi propio software. Soy una persona innovadora.</strong>
+	actualmente en el quinto semestre. <p> Me atrae el desarrollo de software en un futuro me gustaría
+		desarrollar video juegos o mi propio software</p>. Soy una persona innovadora.</strong>
 	<p><h2>Experiencia laboral</h2></p>
 	<li>
 	<strong>Cargo:</strong>
