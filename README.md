@@ -20,7 +20,7 @@
 	      </ul>
 	       <h2>Perfil </h2>
 	       <em>Estudiante de ingeniería en software del Tecnologico de Antioquia,
-	       actualmente en el quinto semestre. <p> Me atrae el desarrollo de software en un futuro me gustaría</p> 
+	       actualmente en el quinto semestre. <p> Me atrae el desarrollo de software en un futuro me gustaría
 	       desarrollar video juegos o mi propio software. Soy una persona innovadora.</em>
 	       <p><h2>Experiencia laboral</h2></p>
 	       <p><strong><h3>Cargo:</h3></strong>
